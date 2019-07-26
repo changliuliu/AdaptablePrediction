@@ -8,6 +8,8 @@ Run adaptable_prediction.mlx to visualize trajectory prediction results under di
 1. prediction horizon
 1. forgetting factor
 
+![](https://github.com/changliuliu/Adaptable_Prediction/blob/master/Adaptation.pdf)
+
 ## Nonlinear prediction model
 `x(k+1) = f(a(k), x(k))`
 
