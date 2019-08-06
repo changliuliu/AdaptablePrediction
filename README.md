@@ -16,6 +16,8 @@ Run adaptable_prediction.mlx to visualize trajectory prediction results under di
 ## Noninear recursive least square
 [To be completed]
 
+![](Result.png)
+
 ## References
 
 https://en.wikipedia.org/wiki/Recursive_least_squares_filter
